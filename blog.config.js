@@ -1,19 +1,19 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'Ryan Yao Blog',
+  author: 'Ryan Yao',
+  email: 'hello@ryanyao.design',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
-  appearance: 'auto', // ['light', 'dark', 'auto'],
-  lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
+  appearance: 'dark', // ['light', 'dark', 'auto'],
+  lightBackground: '#f3f3f3', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // if leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 8,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/ryanqyao',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
