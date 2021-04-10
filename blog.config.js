@@ -2,12 +2,12 @@ const BLOG = {
   title: 'Ryan Yao Blog',
   author: 'Ryan Yao',
   email: 'hello@ryanyao.design',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://ryanyao.me',
+  description: 'This is my new blog home',
   lang: 'en-US',
   appearance: 'dark', // ['light', 'dark', 'auto'],
   lightBackground: '#f3f3f3', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#111827', // use hex value, don't forget '#'
+  darkBackground: '#1D1C23', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // if leave this empty, current year will be used.
   postsPerPage: 8,
