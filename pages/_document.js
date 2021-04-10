@@ -62,6 +62,8 @@ class MyDocument extends Document {
         <body className="bg-day dark:bg-night">
           <Main />
           <NextScript />
+        <script async defer src="https://api.ryanyao.life/latest.js"></script> 
+        <noscript><img src="https://api.ryanyao.life/noscript.gif" alt=""/></noscript>
         </body>
       </Html>
     )
